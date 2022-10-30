@@ -1,0 +1,10 @@
+.box {
+    color: firebrick;
+    background-color: orange;
+    user-select: none;
+}
+
+.box1 {
+    color: purple;
+    background-color: #66660066;
+}
